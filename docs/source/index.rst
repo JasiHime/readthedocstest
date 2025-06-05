@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   Software/apptainer
+   System/compute-resources
