@@ -1,20 +1,20 @@
 Apptainer
-###
+===
 
 About
-***
+---
 Apptainer (formerly Singularity) simplifies the creation and execution of containers, ensuring software components are encapsulated for portability and reproducibility.
 
 Containers are images run on a server, using base operating system components from that server. It’s similar to a virtual machine, where you can choose your OS and what packages to install within it, without compromising the host system.
 
 Load Module
-***
+---
 .. code-block:: language
 module load apps/apptainer
 code
 
 Usage
-***
+---
 For usage information run the following command after loading the module:
 
 .. code-block:: language
@@ -24,7 +24,7 @@ code
 Below we have some easy manuals to get a first feel for containers, though we would recommend going through the more in depth Quick Start guide Apptainer offers in their documentation. This is linked in the “External Links” below.
 
 Run containers
-===
+***
 On MARS you can run images you made yourself, or run images provided by colleagues or software developers. Please make sure the images you are using are from trusted sources!
 
 You can run a container using the apptainer run command. The <image> part can either be the path to a .sif image you have saved locally or it can be a link to an image stored in a repository online.

@@ -1,10 +1,10 @@
 Compute Resources
-###
+===
 
 There are four types of nodes in the MARS cluster for processing different workloads!
 
 GPU+ Nodes
-***
+---
 These resources can only be used as part of a project with GPU+ permission. Please specify the need for these resources in your project application.
 
 Count	4
