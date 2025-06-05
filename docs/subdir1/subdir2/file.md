@@ -2,6 +2,7 @@
 With more text, hehe
 
 We will try a table:
+
 | Month    | Savings |
 | -------- | ------- |
 | January  | $250    |
