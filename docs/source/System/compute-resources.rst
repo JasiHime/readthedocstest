@@ -7,7 +7,12 @@ GPU+ Nodes
 -----------
 These resources can only be used as part of a project with GPU+ permission. Please specify the need for these resources in your project application.
 
-Count	4
+.. list-table::
+  :widths: 30 70
+  :header-rows: 1
+
+* - Count
+  - 4
 * - Specifications	
   - 2x AMD 7763 Processors @2.8Ghz
     64 cores each CPU
